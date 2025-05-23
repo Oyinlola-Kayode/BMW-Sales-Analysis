@@ -97,7 +97,10 @@ To perform a comprehensive analysis of BMW global vehicle sales from 2019 to 202
 
 
 ![BMW-Sales-Analysis](images/BMW%20VISUAL.png)
-![BMW-Sales-Analysis](images/BMW%20VISUAL2.png)
+
+
+
+![BMW-Sales-Analysis](images/BMW%20VISUAL%202.png)
 
 ---
 
