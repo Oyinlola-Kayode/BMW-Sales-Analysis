@@ -95,6 +95,9 @@ To perform a comprehensive analysis of BMW global vehicle sales from 2019 to 202
 
 > The wholesale channel continues to lead, but **online sales are growing**, indicating a shift in buyer behavior.
 
+
+![BMW-Sales-Analysis](images/BMW VISUAL.png)
+
 ---
 
 ## **Conclusions & Recommendations**
