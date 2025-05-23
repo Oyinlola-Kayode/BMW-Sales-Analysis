@@ -19,6 +19,10 @@ To perform a comprehensive analysis of BMW global vehicle sales from 2019 to 202
   * Utilized **UNICHAR and SVG** visuals for intuitive signals (arrows, flags, sparklines)  
   * Applied **conditional formatting, slicers, and filters** to allow smooth exploration  
   * Designed visuals with **storytelling flow**, enabling users to navigate from macro to micro insights
+ 
+
+![BMW Dashboard](images/Model View.png)
+
 
 ---
 
