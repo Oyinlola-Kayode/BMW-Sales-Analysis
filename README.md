@@ -21,7 +21,7 @@ To perform a comprehensive analysis of BMW global vehicle sales from 2019 to 202
   * Designed visuals with **storytelling flow**, enabling users to navigate from macro to micro insights
  
 
-https://github.com/Oyinlola-Kayode/BMW-Sales-Analysis/blob/BMW-Sales-Analysis/images/Model%20View.png
+![BMW-Sales-Analysis](images/Model%20View.png)
 
 
 ---
